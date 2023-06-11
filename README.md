@@ -1,6 +1,6 @@
 # Hey there :wave:
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world👋!">
 
 <!--
 **dusanmitrovic98/dusanmitrovic98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
