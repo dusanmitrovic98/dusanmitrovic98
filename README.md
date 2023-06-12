@@ -1,48 +1,23 @@
-Here's a sample GitHub profile README.md with a grid-like system using HTML and inline CSS. Each element has a percentage width in rows and columns:
+<h1 align="center">Hi, I'm BK 👋</h1>
 
-```markdown
-<!-- README.md -->
-
-<h1 align="center">Hi, I'm Your Name 👋</h1>
-
-<p align="center">A brief introduction about yourself.</p>
-
-<!-- Grid system -->
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 10px;">
-
-  <!-- Element 1 -->
-  <div style="width: 100%; background-color: #f1f1f1; padding: 20px; text-align: center;">
-    <h3>Element 1</h3>
-    <p>Element 1 description.</p>
-  </div>
-
-  <!-- Element 2 -->
-  <div style="width: 100%; background-color: #f1f1f1; padding: 20px; text-align: center;">
-    <h3>Element 2</h3>
-    <p>Element 2 description.</p>
-  </div>
-
-  <!-- Element 3 -->
-  <div style="width: 100%; background-color: #f1f1f1; padding: 20px; text-align: center;">
-    <h3>Element 3</h3>
-    <p>Element 3 description.</p>
-  </div>
-
-</div>
-```
-
-This code creates a 3-column grid with equal widths. You can customize the content, colors, and styles as needed. Remember that complex styling might not be fully supported in GitHub profile READMEs, so it's best to keep it simple., with interactive elements
-
-
-
+<p align="center">A passionate developer.</p>
 
 <p align="center">
-<a href="https://www.buymeacoffee.com/dusanmitrovic98" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/dusanmitrovic98" target="_blank"><img src="https/cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p>
 
-<div align="center"><img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png"  width="300" height="150"alt="Hello world"></div>
-
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="150"  /></p>
+<div style="display: grid; grid-template-rows: repeat(3, 1fr); grid-gap: 5px
+">
+  <div style="width: 100%; background-color: #f1f1f1; text-align: center; background-color: #0D0F17">
+    <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 5px";>
+      <div><img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png"  width="150" height="75"alt="Hello world" style="padding: 20px;"></div>
+      <p style="padding: 20px;"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="150" height="75"  /></p>
+  </div>
+  <div style="width: 100%; background-color: #f1f1f1; text-align: center; background-color: #0D0F17;">
+  </div>
+  <div style="width: 100%; background-color: #f1f1f1; text-align: center; background-color: #0D0F17">
+  </div>
+</div>
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
