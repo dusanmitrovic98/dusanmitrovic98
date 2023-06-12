@@ -1,3 +1,41 @@
+Here's a sample GitHub profile README.md with a grid-like system using HTML and inline CSS. Each element has a percentage width in rows and columns:
+
+```markdown
+<!-- README.md -->
+
+<h1 align="center">Hi, I'm Your Name 👋</h1>
+
+<p align="center">A brief introduction about yourself.</p>
+
+<!-- Grid system -->
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 10px;">
+
+  <!-- Element 1 -->
+  <div style="width: 100%; background-color: #f1f1f1; padding: 20px; text-align: center;">
+    <h3>Element 1</h3>
+    <p>Element 1 description.</p>
+  </div>
+
+  <!-- Element 2 -->
+  <div style="width: 100%; background-color: #f1f1f1; padding: 20px; text-align: center;">
+    <h3>Element 2</h3>
+    <p>Element 2 description.</p>
+  </div>
+
+  <!-- Element 3 -->
+  <div style="width: 100%; background-color: #f1f1f1; padding: 20px; text-align: center;">
+    <h3>Element 3</h3>
+    <p>Element 3 description.</p>
+  </div>
+
+</div>
+```
+
+This code creates a 3-column grid with equal widths. You can customize the content, colors, and styles as needed. Remember that complex styling might not be fully supported in GitHub profile READMEs, so it's best to keep it simple., with interactive elements
+
+
+
+
 <p align="center">
 <a href="https://www.buymeacoffee.com/dusanmitrovic98" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p>
