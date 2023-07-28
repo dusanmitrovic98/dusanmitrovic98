@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm BK 👋</h1>
+<h1 align="center">Hi, I'm Dule 👋</h1>
 
 <p align="center">A passionate developer.</p>
 
