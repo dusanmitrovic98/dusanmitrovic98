@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Dule 👋</h1>
 
 <p align="center">A passionate developer.</p>
-
+ 
 ## Pages
 
 https://github.com/dusanmitrovic98/dusanmitrovic98.github.io
