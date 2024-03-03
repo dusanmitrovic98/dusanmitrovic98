@@ -2,7 +2,7 @@
 
 <p align="center">A passionate developer.</p>
 
-## Pages (outdated)
+## Pages
 
 https://github.com/dusanmitrovic98/dusanmitrovic98.github.io
 
