@@ -3,7 +3,6 @@
 <p align="center">A passionate developer.</p>
 <p align="center">Hello World!</p>
 <br>
-<br>
 <p align="center">
   Pages (outdated)
 </p>
