@@ -3,9 +3,10 @@
 <p align="center">A passionate developer.</p>
 <p align="center">Hello World!</p>
 <p align="center">
-  ## Pages (outdated)
-
-  https://github.com/dusanmitrovic98/dusanmitrovic98.github.io
+  Pages (outdated)
+</p>
+<p align="center">
+    https://github.com/dusanmitrovic98/dusanmitrovic98.github.io
 </p>
 
 
