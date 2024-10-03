@@ -1,12 +1,11 @@
 <h1 align="center">Hi, I'm Dule 👋</h1>
 
 <p align="center">A passionate developer.</p>
+<p align="center">Hello World!</p>
 
-## Pages (Outdated)
+## Pages (outdated)
 
 https://github.com/dusanmitrovic98/dusanmitrovic98.github.io
-
-Hello World!
 
 
 <!--
