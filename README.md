@@ -2,14 +2,14 @@
 
 <p align="center">A passionate developer.</p>
 <p align="center">Hello World!</p>
-<br>
+<!-- <br>
 <p align="center">
   Pages (outdated)
 </p>
 <p align="center">
     https://github.com/dusanmitrovic98/dusanmitrovic98.github.io
 </p>
-
+ -->
 
 
 
