@@ -5,4 +5,5 @@
 
 > [!WARNING]
 > Copyright (c) Dušan Mitrović
+> 
 > All Rights Reserved.
