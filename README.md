@@ -3,5 +3,7 @@
     <img src="./assets/images/logo-icon.png" class="logo">
 </div>
 
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
+> [!WARNING]
+> Copyright (c) Dušan Mitrović
+> All Rights Reserved.
+> Proprietary and confidential. Unauthorized copying of this file, via any medium, is strictly prohibited.
