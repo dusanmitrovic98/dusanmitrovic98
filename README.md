@@ -1,20 +1,33 @@
-<h1 align="center">Hi, I'm Dule 👋</h1>
+<style>
+    :root {
+        box-sizing: border-box;
 
-<p align="center">Hello World!</p>
+        margin: 0;
+        padding: 0;
+    }
 
-> <div align="center"> <h1>MainframeForge</h1> </div>
+    body {
 
-<div align="center">
-  <img src="./assets/images/logo-icon.png" width="64" alt="MainframeForge Logo">
-  <p>Software Architecture & Infrastructure Tooling</p>
+    }
+
+    .main-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .main-container.h1 {
+    }
+
+    .logo {
+        max-width: 48px; 
+        max-height: 48px;
+        padding: 1rem;
+    }
+</style>
+
+<div class="main-container">
+    <h1>MainframeForge</h1>
+    <img src="./assets/images/logo-icon.png" class="logo">
 </div>
-
-<details>
-  <summary>Click to expand Navigation</summary>
-    <div>
-        <a href="https://mainframeforge.com">Main landing</a>
-    </div>
-    <div>
-        <a href="https://mainframeforge.com/links.html">Developer profile</a>
-    </div>
-</details>
